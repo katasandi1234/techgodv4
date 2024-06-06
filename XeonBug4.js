@@ -183,7 +183,7 @@ var xeonlod = [
 "《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
 "《 ████▒▒▒▒▒▒▒▒》30%",
 "《 ███████▒▒▒▒▒》50%",
-"《 ██████████▒▒YouTube Tech God》80%",
+"《 ██████████▒▒𝚡𝚊𝚗𝚍.𝚊𝚛𝚛》80%",
 "《 ████████████》100%",
 "𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🦄..."
 ]
@@ -2064,7 +2064,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "message": `${botname}`,
 "orderTitle": " TROLLY BUG ", 
 "sellerJid": "916909137213@s.whatsapp.net",
-"token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
+"token": "𝚡𝚊𝚗𝚍.𝚊𝚛𝚛"
 }
 }), { userJid: from, quoted:m})
 XeonBotInc.relayMessage(victim, order.message, { messageId: order.key.id })
